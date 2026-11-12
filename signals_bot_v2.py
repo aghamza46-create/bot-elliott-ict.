@@ -1,4 +1,3 @@
-s bot v2 · PY
 """
 BOT DE SIGNAUX V2 : ELLIOTT + FIBONACCI (OTE) + ICT + RISQUE "BANQUE"
 =====================================================================
